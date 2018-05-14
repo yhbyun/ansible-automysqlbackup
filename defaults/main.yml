@@ -1,5 +1,7 @@
 ---
 # defaults file for Uccio.automysqlbackup
+automysqlbackup_use_mysql_config_editor: false
+
 #automysqlbackup_source:  https://sourceforge.net/projects/automysqlbackup/files/latest/download
 automysqlbackup_source: https://github.com/sixhop/AutoMySQLBackup/archive/master.zip
 automysqlbackup_tmp_file: '/tmp/automysqlbackup/AutoMySQLBackup-master/automysqlbackup'
